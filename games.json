@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-03T22:44:08",
+  "last_updated": "2026-03-03T23:12:12",
   "categories": [
     {
       "id": "pc",
@@ -276,6 +276,13 @@
           "size": "23.2 GB",
           "format": "PACK",
           "note": ""
+        },
+        {
+          "name": "God of War - Ascension (Europe Australia)",
+          "file_path": "PP/S3/6.pack",
+          "size": "36.5 GB",
+          "format": "PACK",
+          "note": "TR VAR OYUNDA"
         }
       ]
     },
