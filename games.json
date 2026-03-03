@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-03T23:40:09",
+  "last_updated": "2026-03-03T23:40:45",
   "categories": [
     {
       "id": "pc",
@@ -287,7 +287,7 @@
         {
           "name": "Minecraft - PlayStation 3 Edition (USA)",
           "file_path": "PP/S3/7.pack",
-          "size": "-",
+          "size": "366 MB",
           "format": "PACK",
           "note": "TR VAR OYUNDA"
         }
