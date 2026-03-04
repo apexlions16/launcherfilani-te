@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-03T23:40:45",
+  "last_updated": "2026-03-04T17:39:01",
   "categories": [
     {
       "id": "pc",
@@ -290,6 +290,20 @@
           "size": "366 MB",
           "format": "PACK",
           "note": "TR VAR OYUNDA"
+        },
+        {
+          "name": "Call of Duty - Black Ops III (Europe)",
+          "file_path": "PP/S3/8.pack",
+          "size": "4.66 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Call of Duty - Black Ops III (USA)",
+          "file_path": "PP/S3/8-1.pack",
+          "size": "4.28 GB",
+          "format": "PACK",
+          "note": ""
         }
       ]
     },
