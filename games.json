@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-04T19:41:55",
+  "last_updated": "2026-03-04T19:47:04",
   "categories": [
     {
       "id": "pc",
@@ -380,6 +380,13 @@
           "name": "Dragon Ball Z - Tenkaichi Tag Team (USA)",
           "file_path": "PP/SSPS/10.pack",
           "size": "1.27 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Naruto Shippuden - Ultimate Ninja Impact (USA)",
+          "file_path": "PP/SSPS/11.pack",
+          "size": "0.98 GB",
           "format": "PACK",
           "note": ""
         }
