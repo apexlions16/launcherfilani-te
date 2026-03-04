@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-05T02:28:04",
+  "last_updated": "2026-03-05T02:37:53",
   "categories": [
     {
       "id": "pc",
@@ -167,6 +167,48 @@
           "name": "Jackie Chan Stuntmaster (USA)",
           "file_path": "PP/S1/14.pack",
           "size": "598 mb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Silent Hill (USA)",
+          "file_path": "PP/S1/15.pack",
+          "size": "1.24 gb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Resident Evil 3 - Nemesis (USA)",
+          "file_path": "PP/S1/16.pack",
+          "size": "924 mb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Mortal Kombat Trilogy (USA)",
+          "file_path": "PP/S1/17.pack",
+          "size": "1.13 gb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Koudelka (USA)",
+          "file_path": "PP/S1/18.pack",
+          "size": "2.33 gb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "MediEvil (USA)",
+          "file_path": "PP/S1/19.pack",
+          "size": "2.92 gb",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Parasite Eve II (Europe)",
+          "file_path": "PP/S1/20.pack",
+          "size": "1.13 gb",
           "format": "PACK",
           "note": ""
         }
