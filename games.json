@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-04T17:39:01",
+  "last_updated": "2026-03-04T19:41:55",
   "categories": [
     {
       "id": "pc",
@@ -373,6 +373,13 @@
           "name": "FIFA 12 (Europe)",
           "file_path": "PP/SSPS/9.pack",
           "size": "1.20 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Dragon Ball Z - Tenkaichi Tag Team (USA)",
+          "file_path": "PP/SSPS/10.pack",
+          "size": "1.27 GB",
           "format": "PACK",
           "note": ""
         }
