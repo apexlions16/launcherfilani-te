@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-04T19:47:04",
+  "last_updated": "2026-03-05T02:28:04",
   "categories": [
     {
       "id": "pc",
@@ -146,6 +146,27 @@
           "name": "Tekken 3 (USA)",
           "file_path": "PP/S1/11.pack",
           "size": "656 MB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "CTR - Crash Team Racing (USA)",
+          "file_path": "PP/S1/12.pack",
+          "size": "1.13 GB",
+          "format": "PACK",
+          "note": "beta + demo"
+        },
+        {
+          "name": "Dino Crisis (USA)",
+          "file_path": "PP/S1/13.pack",
+          "size": "822 mb",
+          "format": "PACK",
+          "note": "beta + demo"
+        },
+        {
+          "name": "Jackie Chan Stuntmaster (USA)",
+          "file_path": "PP/S1/14.pack",
+          "size": "598 mb",
           "format": "PACK",
           "note": ""
         }
@@ -387,6 +408,28 @@
           "name": "Naruto Shippuden - Ultimate Ninja Impact (USA)",
           "file_path": "PP/SSPS/11.pack",
           "size": "0.98 GB",
+          "format": "PACK",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "gb",
+      "name": "GameBoy",
+      "icon": "📁",
+      "repo": "hcywashere/ultra_n3bula_x77core",
+      "games": [
+        {
+          "name": "Legend of Zelda, The - Link's Awakening",
+          "file_path": "PP/GB/1.pack",
+          "size": "3.39 MB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+          "file_path": "PP/GB/2.pack",
+          "size": "1 MB",
           "format": "PACK",
           "note": ""
         }
