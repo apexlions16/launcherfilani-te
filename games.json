@@ -1,6 +1,6 @@
 {
   "remote_url": "",
-  "last_updated": "2026-03-05T16:45:29",
+  "last_updated": "2026-03-05T18:26:48",
   "categories": [
     {
       "id": "pc",
@@ -357,6 +357,76 @@
           "name": "Shadow Of The Colossus (Usa)",
           "file_path": "PP/S2/20.pack",
           "size": "2.5 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Bully (Usa)",
+          "file_path": "PP/S2/21.pack",
+          "size": "4.3 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Burnout 3   Takedown (Usa)",
+          "file_path": "PP/S2/22.pack",
+          "size": "2.7 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Crash Bandicoot   The Wrath Of Cortex (Usa) (V1.01)",
+          "file_path": "PP/S2/23.pack",
+          "size": "513.2 MB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Devil May Cry 3   Dante'S Awakening (Europe)",
+          "file_path": "PP/S2/24.pack",
+          "size": "3.6 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Disney Pixar Cars (Usa)",
+          "file_path": "PP/S2/25.pack",
+          "size": "2.8 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Metal Gear Solid 2   Sons Of Liberty (Usa)",
+          "file_path": "PP/S2/26.pack",
+          "size": "4.3 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Midnight Club 3   Dub Edition Remix (Usa)",
+          "file_path": "PP/S2/27.pack",
+          "size": "8.0 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Mortal Kombat   Armageddon (Usa)",
+          "file_path": "PP/S2/28.pack",
+          "size": "4.1 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Mortal Kombat   Shaolin Monks (Usa)",
+          "file_path": "PP/S2/29.pack",
+          "size": "3.3 GB",
+          "format": "PACK",
+          "note": ""
+        },
+        {
+          "name": "Resident Evil 4 (Usa)",
+          "file_path": "PP/S2/30.pack",
+          "size": "4.1 GB",
           "format": "PACK",
           "note": ""
         }
